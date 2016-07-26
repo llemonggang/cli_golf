@@ -1,0 +1,48 @@
+jeanetteadelson ~
+$ cd Downloads/kitchen/
+jeanetteadelson ~/Downloads/kitchen
+$ mv cans.txt ~/Downloads/kitchen/pantry/cans.txt
+'cans.txt' -> '/Users/jeanetteadelson/Downloads/kitchen/pantry/cans.txt'
+jeanetteadelson ~/Downloads/kitchen
+$ cd pantry
+jeanetteadelson ~/Downloads/kitchen/pantry
+$ mv crisper-drawer ~/Downloads/kitchen/fridge/crisper-drawer
+'crisper-drawer' -> '/Users/jeanetteadelson/Downloads/kitchen/fridge/crisper-drawer'
+jeanetteadelson ~/Downloads/kitchen/pantry
+$ cd ../fridge/crisper-drawer
+jeanetteadelson ~/Downloads/kitchen/fridge/crisper-drawer
+$ touch apples.txt
+jeanetteadelson ~/Downloads/kitchen/fridge/crisper-drawer
+$ cd ../
+jeanetteadelson ~/Downloads/kitchen/fridge
+$ rm diapers.txt 
+removed 'diapers.txt'
+jeanetteadelson ~/Downloads/kitchen/fridge
+$ mv trashcan ~/Downloads/kitchen/trashcan
+'trashcan' -> '/Users/jeanetteadelson/Downloads/kitchen/trashcan'
+jeanetteadelson ~/Downloads/kitchen/fridge
+$ cd ~/Downloads/kitchen/
+jeanetteadelson ~/Downloads/kitchen
+$ cd trashcan
+jeanetteadelson ~/Downloads/kitchen/trashcan
+$ mv sink ~/Downloads/kitchen/sink
+'sink' -> '/Users/jeanetteadelson/Downloads/kitchen/sink'
+jeanetteadelson ~/Downloads/kitchen/trashcan
+$ cd ~/Downloads/kitchen/sink
+jeanetteadelson ~/Downloads/kitchen/sink
+$ mkdir drying-rack
+gmkdir: created directory 'drying-rack'
+jeanetteadelson ~/Downloads/kitchen/sink
+$ mv clean-dishes.txt ~/Downloads/kitchen/sink/drying-rack/clean-dishes.txt
+'clean-dishes.txt' -> '/Users/jeanetteadelson/Downloads/kitchen/sink/drying-rack/clean-dishes.txt'
+jeanetteadelson ~/Downloads/kitchen/sink
+$ rm delete-me.txt
+removed 'delete-me.txt'
+jeanetteadelson ~/Downloads/kitchen/sink
+$ cd ~/Downloads/kitchen/fridge/freezer/
+jeanetteadelson ~/Downloads/kitchen/fridge/freezer
+$ rm couch.txt
+removed 'couch.txt'
+jeanetteadelson ~/Downloads/kitchen/fridge/freezer
+$ 
+
